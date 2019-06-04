@@ -24,4 +24,5 @@ export class Point{
         
             this._x = value;
     }
+    
 }
